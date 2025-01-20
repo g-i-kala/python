@@ -41,10 +41,11 @@ Each script may have specific requirements. Refer to the header comments of each
 ## Usage
 
 Clone the repository and run the scripts using Python:
-
+```
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
 python script_name.py
+```
 For script-specific usage details, refer to the comments or instructions included within each script.
 
 ## Contributing
